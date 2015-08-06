@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/sbin/java -jar /opt/elasticmq/elasticmq-server-0.8.8.jar > /var/log/elasticmq-server.out  2>&1
